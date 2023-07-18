@@ -1,1 +1,4 @@
-This is employee-1's text file.
+import tkinter as tk
+
+root = tk.Tk()
+root.mainloop()
